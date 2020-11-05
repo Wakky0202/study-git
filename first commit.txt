@@ -1,4 +1,3 @@
 third commit
 merge
 revert
-test
