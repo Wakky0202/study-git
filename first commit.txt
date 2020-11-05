@@ -1,5 +1,4 @@
 third commit
 merge
 rebase
-test
-error
+squash
